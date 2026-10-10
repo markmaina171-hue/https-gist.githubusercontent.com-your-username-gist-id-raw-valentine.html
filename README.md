@@ -1,2 +1,0 @@
-# https-gist.githubusercontent.com-your-username-gist-id-raw-valentine.html
-&lt;!DOCTYPE html> &lt;html> &lt;head>     &lt;title>💘 Valentine Request 💘&lt;/title> &lt;/head> &lt;body style="background:pink; text-align:center; font-family:sans-serif; margin-top:100px;">     &lt;h1>💓 Will you be my Valentine? 💓&lt;/h1>     &lt;button onclick="alert('YAY! 💕')">Yes 😍&lt;/button>     &lt;button onclick="alert('😭 Still cool!')">No 😭&lt;/button> &lt;/body> &lt;/html>
